@@ -1,0 +1,68 @@
+﻿WEBVTT
+Kind: captions
+Language: en
+
+1
+00:00:00.060 --> 00:00:02.889
+Here I am with Visual Studio code I've
+
+2
+00:00:03.089 --> 00:00:04.599
+just opened the editor I'm going to
+
+3
+00:00:04.799 --> 00:00:07.030
+create a new file and the first thing
+
+4
+00:00:07.230 --> 00:00:09.220
+I'm gonna do is save it we'll save it in
+
+5
+00:00:09.419 --> 00:00:10.930
+my temp directory we'll call it hello
+
+6
+00:00:11.130 --> 00:00:14.999
+dot CPP and I will write include
+
+7
+00:00:15.198 --> 00:00:23.190
+iostream and create a main function and
+
+8
+00:00:23.390 --> 00:00:31.809
+I'll say standard C out hello world and
+
+9
+00:00:32.009 --> 00:00:33.369
+then I'll save that and the next thing
+
+10
+00:00:33.570 --> 00:00:35.529
+I'll do is I will open up a terminal
+
+11
+00:00:35.729 --> 00:00:37.719
+down here I'll go to my temp directory
+
+12
+00:00:37.920 --> 00:00:40.299
+and I've already installed G plus plus
+
+13
+00:00:40.500 --> 00:00:43.809
+so if I check I have G plus plus so I
+
+14
+00:00:44.009 --> 00:00:48.029
+can write G plus plus hello dot CPP and
+
+15
+00:00:48.229 --> 00:00:50.768
+that should give me an e dot out file it
+
+16
+00:00:50.969 --> 00:00:55.969
+does and it prints hello world all set
+

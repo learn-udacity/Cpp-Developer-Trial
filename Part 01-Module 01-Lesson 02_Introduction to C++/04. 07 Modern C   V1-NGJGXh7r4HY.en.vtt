@@ -1,0 +1,96 @@
+﻿WEBVTT
+Kind: captions
+Language: en
+
+1
+00:00:00.030 --> 00:00:02.529
+when people talk about modern C++
+
+2
+00:00:02.730 --> 00:00:05.169
+they're often referring to the C++ 11
+
+3
+00:00:05.370 --> 00:00:07.930
+release which introduced a whole range
+
+4
+00:00:08.130 --> 00:00:09.669
+of new features into the programming
+
+5
+00:00:09.869 --> 00:00:12.880
+language move semantics very attic
+
+6
+00:00:13.080 --> 00:00:15.550
+templates initializer lists the auto
+
+7
+00:00:15.750 --> 00:00:19.030
+keyword lambda expressions null pointer
+
+8
+00:00:19.230 --> 00:00:21.400
+constant expression range based for
+
+9
+00:00:21.600 --> 00:00:23.890
+loops and smart pointers all came into
+
+10
+00:00:24.089 --> 00:00:26.019
+the C++ programming language as part of
+
+11
+00:00:26.219 --> 00:00:28.359
+C++ 11 and change the language
+
+12
+00:00:28.559 --> 00:00:32.858
+dramatically C++ 14 was a relatively
+
+13
+00:00:33.058 --> 00:00:36.219
+minor release and C++ 17 was a major
+
+14
+00:00:36.420 --> 00:00:38.619
+release although not as big as the C++
+
+15
+00:00:38.820 --> 00:00:43.419
+11 release C++ 17 includes standard file
+
+16
+00:00:43.619 --> 00:00:45.099
+system within the standard library
+
+17
+00:00:45.299 --> 00:00:47.858
+standard string view parallel
+
+18
+00:00:48.058 --> 00:00:49.959
+implementations of many of the standard
+
+19
+00:00:50.159 --> 00:00:53.338
+library algorithms in inline variables
+
+20
+00:00:53.539 --> 00:00:56.439
+C++ 20 is scheduled as a minor release
+
+21
+00:00:56.640 --> 00:00:59.678
+but will contain concepts which are an
+
+22
+00:00:59.878 --> 00:01:02.108
+important tool for improving generic
+
+23
+00:01:02.308 --> 00:01:07.308
+programming with templates in C++
+

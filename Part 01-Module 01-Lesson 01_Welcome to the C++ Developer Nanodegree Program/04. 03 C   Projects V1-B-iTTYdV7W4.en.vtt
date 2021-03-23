@@ -1,0 +1,140 @@
+﻿WEBVTT
+Kind: captions
+Language: en
+
+1
+00:00:00.030 --> 00:00:02.079
+this nanodegree program requires you to
+
+2
+00:00:02.279 --> 00:00:04.990
+complete five different projects the
+
+3
+00:00:05.190 --> 00:00:06.729
+first project is the route planner
+
+4
+00:00:06.929 --> 00:00:09.910
+project in which you'll build a route
+
+5
+00:00:10.109 --> 00:00:12.519
+planner to find a route between any two
+
+6
+00:00:12.718 --> 00:00:14.919
+points in a real city using data from
+
+7
+00:00:15.119 --> 00:00:18.400
+the OpenStreetMap project the second
+
+8
+00:00:18.600 --> 00:00:20.800
+project is the system monitor project in
+
+9
+00:00:21.000 --> 00:00:22.989
+which you'll implement your own version
+
+10
+00:00:23.189 --> 00:00:25.960
+of the top program that identifies
+
+11
+00:00:26.160 --> 00:00:28.089
+variables relevant to your system and
+
+12
+00:00:28.289 --> 00:00:30.159
+prints out information about all the
+
+13
+00:00:30.359 --> 00:00:31.539
+different processes running on your
+
+14
+00:00:31.739 --> 00:00:34.750
+computer the third project is the
+
+15
+00:00:34.950 --> 00:00:36.759
+garbage collector project in which
+
+16
+00:00:36.960 --> 00:00:39.518
+you'll build your own version of smart
+
+17
+00:00:39.719 --> 00:00:41.768
+pointers a way to keep track of
+
+18
+00:00:41.969 --> 00:00:43.928
+dynamically allocated memory and prevent
+
+19
+00:00:44.128 --> 00:00:47.349
+memory leaks the fourth project is a
+
+20
+00:00:47.549 --> 00:00:49.869
+traffic simulation in this project
+
+21
+00:00:50.070 --> 00:00:52.358
+you'll use concurrent multi-threaded
+
+22
+00:00:52.558 --> 00:00:54.698
+programming to organize traffic flow
+
+23
+00:00:54.899 --> 00:00:57.219
+through a city each vehicle will run on
+
+24
+00:00:57.420 --> 00:00:59.649
+its own thread and you'll use thread
+
+25
+00:00:59.850 --> 00:01:01.689
+synchronization in communication to help
+
+26
+00:01:01.890 --> 00:01:03.849
+the vehicles navigate intersections and
+
+27
+00:01:04.049 --> 00:01:05.980
+help traffic flow smoothly through the
+
+28
+00:01:06.180 --> 00:01:08.859
+city the final project of this
+
+29
+00:01:09.060 --> 00:01:10.689
+nanodegree program is the capstone
+
+30
+00:01:10.890 --> 00:01:13.659
+project in this project you'll build
+
+31
+00:01:13.859 --> 00:01:16.689
+your own C++ application using many of
+
+32
+00:01:16.890 --> 00:01:18.250
+the different skills and techniques that
+
+33
+00:01:18.450 --> 00:01:19.629
+you've learned as part of this
+
+34
+00:01:19.829 --> 00:01:24.829
+nanodegree program
+

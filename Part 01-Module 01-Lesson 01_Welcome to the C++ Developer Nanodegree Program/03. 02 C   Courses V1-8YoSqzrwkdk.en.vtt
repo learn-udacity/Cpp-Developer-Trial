@@ -1,0 +1,232 @@
+﻿WEBVTT
+Kind: captions
+Language: en
+
+1
+00:00:00.030 --> 00:00:02.409
+this program is organized into four
+
+2
+00:00:02.609 --> 00:00:06.069
+courses foundations object-oriented
+
+3
+00:00:06.269 --> 00:00:08.319
+programming memory management and
+
+4
+00:00:08.519 --> 00:00:09.430
+concurrency
+
+5
+00:00:09.630 --> 00:00:13.030
+in the foundations course you'll learn
+
+6
+00:00:13.230 --> 00:00:16.690
+about C++ syntax and how to compile and
+
+7
+00:00:16.890 --> 00:00:19.810
+run C++ programs you'll also learn about
+
+8
+00:00:20.010 --> 00:00:21.519
+the input and output features of the
+
+9
+00:00:21.719 --> 00:00:24.068
+language as well as how to declare and
+
+10
+00:00:24.268 --> 00:00:26.949
+initialize variables structure your code
+
+11
+00:00:27.149 --> 00:00:29.159
+using conditionals and loops and
+
+12
+00:00:29.359 --> 00:00:32.349
+organize your code using functions in
+
+13
+00:00:32.549 --> 00:00:34.948
+the object-oriented programming course
+
+14
+00:00:35.149 --> 00:00:37.149
+you'll learn how to further organize
+
+15
+00:00:37.350 --> 00:00:39.729
+your code into classes and you'll learn
+
+16
+00:00:39.929 --> 00:00:41.589
+how to expose interfaces to those
+
+17
+00:00:41.789 --> 00:00:44.919
+classes to other users you'll also learn
+
+18
+00:00:45.119 --> 00:00:47.229
+how to declare certain interfaces to be
+
+19
+00:00:47.429 --> 00:00:49.599
+public and certain to be private using
+
+20
+00:00:49.799 --> 00:00:52.899
+access modifiers you'll cover the core
+
+21
+00:00:53.100 --> 00:00:54.909
+concepts of object oriented programming
+
+22
+00:00:55.109 --> 00:00:57.419
+generally including encapsulation
+
+23
+00:00:57.619 --> 00:00:59.849
+abstraction inheritance and polymorphism
+
+24
+00:01:00.049 --> 00:01:02.678
+and you'll learn how to implement those
+
+25
+00:01:02.878 --> 00:01:04.719
+features using the C++ programming
+
+26
+00:01:04.920 --> 00:01:07.509
+language you'll close this course by
+
+27
+00:01:07.709 --> 00:01:09.340
+learning about generic programming and
+
+28
+00:01:09.540 --> 00:01:12.278
+how to use C++ templates to make your
+
+29
+00:01:12.478 --> 00:01:16.209
+code more generic in the next course
+
+30
+00:01:16.409 --> 00:01:17.918
+you'll learn about memory management
+
+31
+00:01:18.118 --> 00:01:20.709
+memory is incredibly important to the
+
+32
+00:01:20.909 --> 00:01:23.140
+C++ programming language you'll learn
+
+33
+00:01:23.340 --> 00:01:25.238
+how to pass around both references and
+
+34
+00:01:25.438 --> 00:01:27.730
+pointers and you'll learn about the
+
+35
+00:01:27.930 --> 00:01:29.590
+differences between memory on the stack
+
+36
+00:01:29.790 --> 00:01:31.649
+and memory allocated from the heap
+
+37
+00:01:31.849 --> 00:01:34.480
+you'll also learn how to take advantage
+
+38
+00:01:34.680 --> 00:01:36.878
+of scope and use the resource
+
+39
+00:01:37.078 --> 00:01:39.189
+acquisition is initialization paradigm
+
+40
+00:01:39.390 --> 00:01:41.769
+in order to keep track of memory that's
+
+41
+00:01:41.969 --> 00:01:44.230
+used by your program you'll close this
+
+42
+00:01:44.430 --> 00:01:46.119
+course by learning about smart pointers
+
+43
+00:01:46.319 --> 00:01:48.459
+which are the best way to keep track of
+
+44
+00:01:48.659 --> 00:01:50.829
+pointers and dynamically allocated
+
+45
+00:01:51.030 --> 00:01:55.028
+memory in modern C++ the final course is
+
+46
+00:01:55.228 --> 00:01:58.000
+concurrency in this course you'll learn
+
+47
+00:01:58.200 --> 00:01:59.799
+how to organize your code using both
+
+48
+00:02:00.000 --> 00:02:02.679
+processes and threads and you'll learn
+
+49
+00:02:02.879 --> 00:02:04.509
+how to synchronize and communicate
+
+50
+00:02:04.709 --> 00:02:07.480
+between threads in particular you'll
+
+51
+00:02:07.680 --> 00:02:09.279
+learn about features of the C++
+
+52
+00:02:09.479 --> 00:02:11.050
+programming language that support
+
+53
+00:02:11.250 --> 00:02:13.420
+concurrent multi-threaded programming
+
+54
+00:02:13.620 --> 00:02:15.719
+including promises and futures and
+
+55
+00:02:15.919 --> 00:02:18.819
+mutexes and locks by the time you're
+
+56
+00:02:19.019 --> 00:02:21.219
+done with all four of these courses you
+
+57
+00:02:21.419 --> 00:02:26.419
+will be a terrific C++ developer
+

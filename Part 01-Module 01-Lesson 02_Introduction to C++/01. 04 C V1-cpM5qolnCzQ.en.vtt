@@ -1,0 +1,60 @@
+﻿WEBVTT
+Kind: captions
+Language: en
+
+1
+00:00:00.060 --> 00:00:03.248
+C++ is a compiled high-performance
+
+2
+00:00:03.448 --> 00:00:05.919
+programming language it's particularly
+
+3
+00:00:06.120 --> 00:00:07.930
+important for applications that have to
+
+4
+00:00:08.130 --> 00:00:11.019
+run really close to hardware like robots
+
+5
+00:00:11.218 --> 00:00:14.979
+or automobiles C++ has a reputation
+
+6
+00:00:15.179 --> 00:00:17.859
+perhaps unfairly earned for being a
+
+7
+00:00:18.059 --> 00:00:19.749
+complex programming language that's
+
+8
+00:00:19.949 --> 00:00:23.829
+difficult to master it is true that C++
+
+9
+00:00:24.028 --> 00:00:26.589
+is a broad language with many different
+
+10
+00:00:26.789 --> 00:00:30.489
+features in this program you're going to
+
+11
+00:00:30.689 --> 00:00:32.558
+learn the most modern and elegant
+
+12
+00:00:32.759 --> 00:00:35.469
+features of C++ so that you can write
+
+13
+00:00:35.670 --> 00:00:37.689
+code that is both easy to develop and
+
+14
+00:00:37.890 --> 00:00:42.890
+runs extremely fast
+

@@ -1,0 +1,88 @@
+﻿WEBVTT
+Kind: captions
+Language: ens
+
+1
+00:00:00.060 --> 00:00:03.520
+I'm in Visual Studio code and I would
+
+2
+00:00:03.720 --> 00:00:06.908
+like to apply clang format to my hello
+
+3
+00:00:07.108 --> 00:00:09.700
+dot CPP file so I'm going to go to the
+
+4
+00:00:09.900 --> 00:00:11.410
+extensions and I'm going to search for
+
+5
+00:00:11.609 --> 00:00:16.109
+clang format I'm going to install it now
+
+6
+00:00:16.309 --> 00:00:18.669
+it's installed and it says files can be
+
+7
+00:00:18.868 --> 00:00:20.949
+formatted on demand by right-clicking in
+
+8
+00:00:21.149 --> 00:00:23.589
+the document and selecting format
+
+9
+00:00:23.789 --> 00:00:25.720
+document or by using the Associated
+
+10
+00:00:25.920 --> 00:00:28.359
+keyboard shortcut usually control shift
+
+11
+00:00:28.559 --> 00:00:30.280
+F on windows control shift I on Linux
+
+12
+00:00:30.480 --> 00:00:34.959
+and shift command F on Mac OS so I'm on
+
+13
+00:00:35.159 --> 00:00:38.018
+Linux so I want ctrl shift I and now if
+
+14
+00:00:38.219 --> 00:00:41.259
+I come here to hello dot CPP and I hit
+
+15
+00:00:41.460 --> 00:00:45.279
+ctrl shift I clang format actually puts
+
+16
+00:00:45.479 --> 00:00:49.628
+my one line hello world implementation
+
+17
+00:00:49.829 --> 00:00:50.948
+on the same line as my function
+
+18
+00:00:51.149 --> 00:00:55.378
+signature and if I save this and I
+
+19
+00:00:55.579 --> 00:00:58.029
+compile it and run it everything should
+
+20
+00:00:58.229 --> 00:01:01.029
+still work but I have clang formats
+
+21
+00:01:01.229 --> 00:01:06.229
+default formatting style
+

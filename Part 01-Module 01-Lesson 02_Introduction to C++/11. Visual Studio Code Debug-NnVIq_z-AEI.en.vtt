@@ -1,0 +1,308 @@
+﻿WEBVTT
+Kind: captions
+Language: en
+
+1
+00:00:00.709 --> 00:00:03.458
+so here we have a slightly more complex
+
+2
+00:00:03.658 --> 00:00:08.500
+program this program declares a vector
+
+3
+00:00:08.699 --> 00:00:10.780
+of strings called brothers and this is
+
+4
+00:00:10.980 --> 00:00:14.169
+my brother's David Ethan and Adam and
+
+5
+00:00:14.369 --> 00:00:17.550
+then we iterate over this vector and
+
+6
+00:00:17.750 --> 00:00:19.659
+output the name of each of the brothers
+
+7
+00:00:19.859 --> 00:00:25.030
+and if we if we run this let me make
+
+8
+00:00:25.230 --> 00:00:27.100
+sure I'm in the right directory G plus
+
+9
+00:00:27.300 --> 00:00:33.279
+plus hello dot cpp dot slash it out okay
+
+10
+00:00:33.479 --> 00:00:35.909
+so we say hello to David Ethan and Adam
+
+11
+00:00:36.109 --> 00:00:38.409
+what I would like to do now is try and
+
+12
+00:00:38.609 --> 00:00:40.779
+debug this program just inspect what's
+
+13
+00:00:40.979 --> 00:00:43.659
+going on on each line so you might think
+
+14
+00:00:43.859 --> 00:00:45.579
+I could come up here and and start
+
+15
+00:00:45.780 --> 00:00:48.219
+debugging but in fact Visual Studio code
+
+16
+00:00:48.420 --> 00:00:49.989
+is only set up out of the box to debug
+
+17
+00:00:50.189 --> 00:00:52.299
+node J ass which is not helpful for us
+
+18
+00:00:52.500 --> 00:00:55.989
+as C++ developers so I'm going to come
+
+19
+00:00:56.189 --> 00:00:57.969
+to the extensions directory and search
+
+20
+00:00:58.170 --> 00:01:01.119
+for C++ and I see the microsoft c++
+
+21
+00:01:01.320 --> 00:01:03.099
+extension which is what i want to
+
+22
+00:01:03.299 --> 00:01:06.069
+install so now i've installed that i'm
+
+23
+00:01:06.269 --> 00:01:09.879
+gonna come back to hello dot CPP and I'm
+
+24
+00:01:10.079 --> 00:01:12.039
+gonna try and debug again and now I'm
+
+25
+00:01:12.239 --> 00:01:17.859
+able to debug C++ and when I start
+
+26
+00:01:18.060 --> 00:01:24.308
+debugging I get nothing let's try coming
+
+27
+00:01:24.509 --> 00:01:28.929
+to the debug option here and select my
+
+28
+00:01:29.129 --> 00:01:32.558
+environment nothing happens
+
+29
+00:01:32.759 --> 00:01:35.469
+oh here in the bottom right corner I see
+
+30
+00:01:35.670 --> 00:01:37.899
+an error please first open a folder to
+
+31
+00:01:38.099 --> 00:01:41.519
+do advanced debug in debug configuration
+
+32
+00:01:41.719 --> 00:01:44.168
+so I'm gonna actually have to put hello
+
+33
+00:01:44.368 --> 00:01:46.840
+dot cpp in its own folder so let's open
+
+34
+00:01:47.040 --> 00:01:48.849
+a folder I'm gonna create a new folder
+
+35
+00:01:49.049 --> 00:01:51.359
+within my temp directory called hello
+
+36
+00:01:51.560 --> 00:01:56.168
+and then I'm going to click OK now I
+
+37
+00:01:56.368 --> 00:01:59.890
+have this blank folder called hello I'm
+
+38
+00:02:00.090 --> 00:02:07.238
+gonna move my hello dot CPP file which
+
+39
+00:02:07.438 --> 00:02:09.338
+was in the temp directory into this temp
+
+40
+00:02:09.538 --> 00:02:11.860
+ello directory so now I see I have hello
+
+41
+00:02:12.060 --> 00:02:13.689
+dot CPP all over again
+
+42
+00:02:13.889 --> 00:02:16.390
+let's try just compiling it and running
+
+43
+00:02:16.590 --> 00:02:17.950
+it here to make sure everything works
+
+44
+00:02:18.150 --> 00:02:21.219
+everything still works all right now
+
+45
+00:02:21.419 --> 00:02:23.560
+let's try the bugging it and let's say
+
+46
+00:02:23.759 --> 00:02:25.030
+we want to stop at this breakpoint
+
+47
+00:02:25.229 --> 00:02:27.570
+that's how we set a breakpoint is as we
+
+48
+00:02:27.770 --> 00:02:30.880
+we put this red dot here next to the
+
+49
+00:02:31.080 --> 00:02:32.800
+editor on the line that we want to stop
+
+50
+00:02:33.000 --> 00:02:34.090
+the debugger at and we're gonna say
+
+51
+00:02:34.289 --> 00:02:37.450
+start debugging and now I get this
+
+52
+00:02:37.650 --> 00:02:39.610
+option for all the different types of
+
+53
+00:02:39.810 --> 00:02:42.850
+debugging configurations and I'm going
+
+54
+00:02:43.050 --> 00:02:46.900
+to choose G plus plus build and debug
+
+55
+00:02:47.099 --> 00:02:48.790
+active file actually I'm going to come
+
+56
+00:02:48.990 --> 00:02:53.740
+over here and add a configuration here g
+
+57
+00:02:53.939 --> 00:02:58.660
+plus plus building debug active file so
+
+58
+00:02:58.860 --> 00:03:06.240
+let's say I want a debug key that out
+
+59
+00:03:06.439 --> 00:03:16.270
+let's let's create a launch
+
+60
+00:03:16.469 --> 00:03:23.560
+configuration let's delete this and now
+
+61
+00:03:23.759 --> 00:03:35.349
+it's debug let's see oh now we have to
+
+62
+00:03:35.549 --> 00:03:38.230
+load our symbols so it's not enough to
+
+63
+00:03:38.430 --> 00:03:41.140
+just compile the file and Bill they died
+
+64
+00:03:41.340 --> 00:03:43.210
+out we need to compile the file with the
+
+65
+00:03:43.409 --> 00:03:45.700
+debug symbols so we'll say hello dot
+
+66
+00:03:45.900 --> 00:03:53.349
+dash G and we will run on that and now
+
+67
+00:03:53.549 --> 00:03:56.830
+you see we stopped at standard C out
+
+68
+00:03:57.030 --> 00:03:59.230
+hello brother and we can look at the
+
+69
+00:03:59.430 --> 00:04:00.670
+status of the program we have these
+
+70
+00:04:00.870 --> 00:04:03.099
+strings that are my brother's the active
+
+71
+00:04:03.299 --> 00:04:06.310
+brother is David if we continue to the
+
+72
+00:04:06.509 --> 00:04:08.050
+next breakpoint we see the active
+
+73
+00:04:08.250 --> 00:04:11.950
+brother becomes Ethan and we can just
+
+74
+00:04:12.150 --> 00:04:14.650
+step through the code to Adam and now
+
+75
+00:04:14.849 --> 00:04:16.270
+we're done and that's an example of how
+
+76
+00:04:16.470 --> 00:04:21.470
+to debug a program
+

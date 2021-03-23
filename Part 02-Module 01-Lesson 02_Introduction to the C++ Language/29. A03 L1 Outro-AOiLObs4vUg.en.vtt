@@ -1,0 +1,22 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.000 --> 00:00:03.375
+What you've done is awesome,
+
+00:00:03.375 --> 00:00:05.970
+you've printed a maze to output.
+
+00:00:05.969 --> 00:00:10.964
+Yes, and you are able to add really nice formatting by using ASCII mountains in the maze.
+
+00:00:10.964 --> 00:00:15.689
+Coming up, we'll teach you how to use the data structures and algorithms that
+
+00:00:15.689 --> 00:00:18.899
+the C++ standard library provides in order
+
+00:00:18.899 --> 00:00:22.379
+to build a path from the start to the end of the maze.
+

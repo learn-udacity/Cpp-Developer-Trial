@@ -1,0 +1,82 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.000 --> 00:00:02.669
+Hello, welcome to Data Structures,
+
+00:00:02.669 --> 00:00:04.559
+and Algorithms in C++.
+
+00:00:04.559 --> 00:00:09.089
+I'm David Silver, and I lead the School of Autonomous Systems here at Udacity.
+
+00:00:09.089 --> 00:00:10.529
+Hi, I'm Stephen Welch.
+
+00:00:10.529 --> 00:00:12.570
+I'm a Content Developer here at Udacity.
+
+00:00:12.570 --> 00:00:15.720
+In this course, you'll be starting out with basic C++,
+
+00:00:15.720 --> 00:00:17.580
+starting with variables and functions,
+
+00:00:17.579 --> 00:00:18.949
+and by the end of this course,
+
+00:00:18.949 --> 00:00:23.460
+you will be implementing multi-file programs using object oriented programming.
+
+00:00:23.460 --> 00:00:27.719
+In particular, we'll be using a number of the containers,
+
+00:00:27.719 --> 00:00:31.079
+and algorithms provided by the C++ standard library.
+
+00:00:31.079 --> 00:00:32.894
+These are core tools that
+
+00:00:32.895 --> 00:00:37.065
+every C++ programmer uses when they're building projects, and writing code.
+
+00:00:37.064 --> 00:00:39.469
+The projects in this course will be very interesting.
+
+00:00:39.469 --> 00:00:41.719
+You'll be using A star algorithm to find
+
+00:00:41.719 --> 00:00:44.899
+the shortest points or shortest path between two points on a map.
+
+00:00:44.899 --> 00:00:46.534
+In the beginning part of the course,
+
+00:00:46.534 --> 00:00:50.239
+you'll be doing this using an ASCII map, and then by the end,
+
+00:00:50.240 --> 00:00:52.695
+you'll use OpenStreetMap, tiles,
+
+00:00:52.695 --> 00:00:56.905
+and you'll find the shortest path between two points on the actual map.
+
+00:00:56.905 --> 00:01:02.030
+This is such a cool project if you've ever used in Internet mapping application,
+
+00:01:02.030 --> 00:01:07.295
+and wondered how it figures out how to build a route from one on a map to another,
+
+00:01:07.295 --> 00:01:09.650
+you're going to be able to show that to your friends,
+
+00:01:09.650 --> 00:01:11.530
+and family, and anybody else who's interested.
+
+00:01:11.530 --> 00:01:13.739
+That sounds super awesome. Let's get started.
+
+00:01:13.739 --> 00:01:15.439
+Let's go.
+
